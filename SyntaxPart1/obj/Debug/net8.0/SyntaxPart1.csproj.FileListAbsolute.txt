@@ -1,0 +1,14 @@
+G:\codarrrrr\CSharp\SyntaxPart1\obj\Debug\net8.0\SyntaxPart1.GeneratedMSBuildEditorConfig.editorconfig
+G:\codarrrrr\CSharp\SyntaxPart1\obj\Debug\net8.0\SyntaxPart1.AssemblyInfoInputs.cache
+G:\codarrrrr\CSharp\SyntaxPart1\obj\Debug\net8.0\SyntaxPart1.AssemblyInfo.cs
+G:\codarrrrr\CSharp\SyntaxPart1\obj\Debug\net8.0\SyntaxPart1.csproj.CoreCompileInputs.cache
+G:\codarrrrr\CSharp\SyntaxPart1\bin\Debug\net8.0\SyntaxPart1.exe
+G:\codarrrrr\CSharp\SyntaxPart1\bin\Debug\net8.0\SyntaxPart1.deps.json
+G:\codarrrrr\CSharp\SyntaxPart1\bin\Debug\net8.0\SyntaxPart1.runtimeconfig.json
+G:\codarrrrr\CSharp\SyntaxPart1\bin\Debug\net8.0\SyntaxPart1.dll
+G:\codarrrrr\CSharp\SyntaxPart1\bin\Debug\net8.0\SyntaxPart1.pdb
+G:\codarrrrr\CSharp\SyntaxPart1\obj\Debug\net8.0\SyntaxPart1.dll
+G:\codarrrrr\CSharp\SyntaxPart1\obj\Debug\net8.0\refint\SyntaxPart1.dll
+G:\codarrrrr\CSharp\SyntaxPart1\obj\Debug\net8.0\SyntaxPart1.pdb
+G:\codarrrrr\CSharp\SyntaxPart1\obj\Debug\net8.0\SyntaxPart1.genruntimeconfig.cache
+G:\codarrrrr\CSharp\SyntaxPart1\obj\Debug\net8.0\ref\SyntaxPart1.dll
