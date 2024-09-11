@@ -1,2 +1,2 @@
 # cAfiado
-repositorio pra anotar estudos de C#
+Repositorio pra anotar estudos de C#. 
