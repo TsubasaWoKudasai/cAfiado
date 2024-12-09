@@ -1,0 +1,14 @@
+G:\codarrrrr\CSharp\CrudSimples\obj\Debug\net8.0\CrudSimples.GeneratedMSBuildEditorConfig.editorconfig
+G:\codarrrrr\CSharp\CrudSimples\obj\Debug\net8.0\CrudSimples.AssemblyInfoInputs.cache
+G:\codarrrrr\CSharp\CrudSimples\obj\Debug\net8.0\CrudSimples.AssemblyInfo.cs
+G:\codarrrrr\CSharp\CrudSimples\obj\Debug\net8.0\CrudSimples.csproj.CoreCompileInputs.cache
+G:\codarrrrr\CSharp\CrudSimples\bin\Debug\net8.0\CrudSimples.exe
+G:\codarrrrr\CSharp\CrudSimples\bin\Debug\net8.0\CrudSimples.deps.json
+G:\codarrrrr\CSharp\CrudSimples\bin\Debug\net8.0\CrudSimples.runtimeconfig.json
+G:\codarrrrr\CSharp\CrudSimples\bin\Debug\net8.0\CrudSimples.dll
+G:\codarrrrr\CSharp\CrudSimples\bin\Debug\net8.0\CrudSimples.pdb
+G:\codarrrrr\CSharp\CrudSimples\obj\Debug\net8.0\CrudSimples.dll
+G:\codarrrrr\CSharp\CrudSimples\obj\Debug\net8.0\refint\CrudSimples.dll
+G:\codarrrrr\CSharp\CrudSimples\obj\Debug\net8.0\CrudSimples.pdb
+G:\codarrrrr\CSharp\CrudSimples\obj\Debug\net8.0\CrudSimples.genruntimeconfig.cache
+G:\codarrrrr\CSharp\CrudSimples\obj\Debug\net8.0\ref\CrudSimples.dll

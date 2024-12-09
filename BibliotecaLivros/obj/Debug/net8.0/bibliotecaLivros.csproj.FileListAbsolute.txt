@@ -1,0 +1,14 @@
+G:\codarrrrr\CSharp\bibliotecaLivros\bin\Debug\net8.0\bibliotecaLivros.exe
+G:\codarrrrr\CSharp\bibliotecaLivros\bin\Debug\net8.0\bibliotecaLivros.deps.json
+G:\codarrrrr\CSharp\bibliotecaLivros\bin\Debug\net8.0\bibliotecaLivros.runtimeconfig.json
+G:\codarrrrr\CSharp\bibliotecaLivros\bin\Debug\net8.0\bibliotecaLivros.dll
+G:\codarrrrr\CSharp\bibliotecaLivros\bin\Debug\net8.0\bibliotecaLivros.pdb
+G:\codarrrrr\CSharp\bibliotecaLivros\obj\Debug\net8.0\bibliotecaLivros.GeneratedMSBuildEditorConfig.editorconfig
+G:\codarrrrr\CSharp\bibliotecaLivros\obj\Debug\net8.0\bibliotecaLivros.AssemblyInfoInputs.cache
+G:\codarrrrr\CSharp\bibliotecaLivros\obj\Debug\net8.0\bibliotecaLivros.AssemblyInfo.cs
+G:\codarrrrr\CSharp\bibliotecaLivros\obj\Debug\net8.0\bibliotecaLivros.csproj.CoreCompileInputs.cache
+G:\codarrrrr\CSharp\bibliotecaLivros\obj\Debug\net8.0\bibliotecaLivros.dll
+G:\codarrrrr\CSharp\bibliotecaLivros\obj\Debug\net8.0\refint\bibliotecaLivros.dll
+G:\codarrrrr\CSharp\bibliotecaLivros\obj\Debug\net8.0\bibliotecaLivros.pdb
+G:\codarrrrr\CSharp\bibliotecaLivros\obj\Debug\net8.0\bibliotecaLivros.genruntimeconfig.cache
+G:\codarrrrr\CSharp\bibliotecaLivros\obj\Debug\net8.0\ref\bibliotecaLivros.dll
